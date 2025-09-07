@@ -23,8 +23,9 @@ Python 3.8+ (or a recent version).
 Clone the repository (if applicable) or save the files:
 Save the social_sentiment.py script and the run_app.bat (or similar) file into the same directory.
 
-Here already .venv(Virtual Environment) created and all necessary libraries are installed , so just activate it and then execute the program.
-First extract the .venv.zip then put the folder in same directory as below then activate it
+First create a python .venv(Virtual Environment) file 
+"python -m venv .venv" and then activate it 
+".venv\Scripts\activate". It is for best practices.
 
 Realtime_sentiment_analysis/│
 ├── .env
@@ -110,5 +111,6 @@ The application performs computationally intensive tasks (loading models, making
 
 🤝 Contributing
 Feel free to fork the repository, make improvements, and submit pull requests.
+
 
 
