@@ -28,7 +28,7 @@ First extract the .venv.zip then put the folder in same directory as below then 
 
 Realtime_sentiment_analysis/│
 ├── .env
-├── .venv/
+├── .venv
 ├── README.md
 ├── requirements.txt
 ├── run_sentiment.bat
@@ -110,4 +110,5 @@ The application performs computationally intensive tasks (loading models, making
 
 🤝 Contributing
 Feel free to fork the repository, make improvements, and submit pull requests.
+
 
